@@ -5,4 +5,7 @@ browser.element('[name="q"]').should(be.blank).type('привет').press_enter(
 # Проверяем наличие любого текста, который точно есть на странице
 browser.element('html').should(have.text('Об этой странице'))
 
-print("hello world")
+
+print("ti ti")
+
+print("вот эту строчку ты не хочешь добавить,  а другую удалить?")
