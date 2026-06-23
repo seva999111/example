@@ -6,6 +6,6 @@ browser.element('[name="q"]').should(be.blank).type('привет').press_enter(
 browser.element('html').should(have.text('Об этой странице'))
 
 
-print("t!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!i ti tu!!!!!! tu hh")
+print("t!!i ti tu!!!!!! tu hh")
 
 print("вот эту строчку ты не хочешь добавить,  а другую удалить? нУ и тут давай что то добавим ")
